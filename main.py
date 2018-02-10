@@ -1,3 +1,8 @@
-#Version
+#Version 1
 
-print('Hello World!')
+def main(msg):
+    print(msg)
+
+
+
+main('Hello World!')
